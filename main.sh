@@ -1,0 +1,1 @@
+python main.py --evaluate ./results_experiment_all/8.5ours/model_best.pth.tar
